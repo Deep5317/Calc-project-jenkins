@@ -13,7 +13,7 @@ public class CalcTest {
  
     @Test
     void testAdd() {
-        assertEquals(15, calc.add(10,5));
+        assertEquals(16, calc.add(10,6));
     }
  
     @Test
