@@ -1,4 +1,4 @@
-package src.main.java.Calc;
+package Calc;
 public class CalcMain {
     public static void main(String[] args) {
         Calculator c=new Calculator();
